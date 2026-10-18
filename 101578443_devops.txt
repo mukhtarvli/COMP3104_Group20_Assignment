@@ -31,3 +31,42 @@ testing, building, and deployment workflows.
 
 These skills help students understand how development
 teams collaborate and maintain reliable applications.
+
+Git Branching and Team Collaboration
+
+Git branching allows developers to work on different
+features without affecting the main project.
+
+Each developer can create a separate branch to make
+changes, test features, and commit their work.
+
+Branching is important in DevOps because it supports
+parallel development and reduces the risk of
+introducing errors into the main codebase.
+
+Pull Requests
+
+A pull request allows developers to propose changes
+from their personal branch into the main branch.
+
+Team members can review the changes, provide feedback,
+and request improvements before merging.
+
+Merge Conflicts
+
+A merge conflict occurs when Git cannot automatically
+combine changes from different branches.
+
+Developers must review the conflicting changes,
+resolve the differences, and commit the corrected files.
+
+Benefits of Git Collaboration
+
+- Supports teamwork and parallel development
+- Keeps the main branch stable
+- Provides a history of code changes
+- Encourages code reviews
+- Makes tracking and fixing errors easier
+
+Git branching and pull requests are essential
+practices for collaborative DevOps projects.
