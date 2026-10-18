@@ -1,0 +1,33 @@
+COMP2156 - DevOps for System Administration
+
+COMP2156 introduces students to DevOps principles,
+tools, and practices used in modern software development.
+
+DevOps combines software development (Dev) and IT
+operations (Ops) to improve collaboration, automation,
+and software delivery.
+
+Key topics covered in DevOps include:
+
+1. Version Control
+Git is used to track changes in source code and
+manage different versions of a software project.
+
+2. GitHub Collaboration
+GitHub allows developers to work together using
+branches, pull requests, and code reviews.
+
+3. Continuous Integration (CI)
+CI automatically builds and tests code when
+developers push changes to a repository.
+
+4. Continuous Deployment (CD)
+CD helps automate the release and deployment
+of software applications.
+
+5. GitHub Actions
+GitHub Actions allows developers to automate
+testing, building, and deployment workflows.
+
+These skills help students understand how development
+teams collaborate and maintain reliable applications.
