@@ -119,3 +119,57 @@ push changes to the repository.
 
 GitHub Actions will execute the workflow on an
 Ubuntu runner and report whether it succeeds.
+
+DevOps Security and Best Practices
+
+Security is an important part of modern DevOps.
+Organizations must protect applications, source
+code, infrastructure, and sensitive information.
+
+DevSecOps
+
+DevSecOps integrates security practices into
+the software development and deployment process.
+
+Instead of checking security only before release,
+teams identify vulnerabilities throughout the
+Software Development Life Cycle.
+
+Important DevOps Security Practices
+
+1. Access Control
+Developers should only receive the permissions
+required to perform their assigned tasks.
+
+2. Secure Credentials
+Passwords, API keys, and access tokens should
+never be stored directly in source code.
+
+3. Dependency Management
+Software dependencies should be regularly
+checked for known security vulnerabilities.
+
+4. Code Reviews
+Pull requests allow team members to review
+changes before merging them into the main branch.
+
+5. Automated Security Checks
+CI/CD pipelines can run automated tools to
+identify vulnerabilities and configuration issues.
+
+Benefits of DevSecOps
+
+- Improves application security
+- Identifies vulnerabilities earlier
+- Reduces security risks
+- Encourages shared security responsibility
+- Supports reliable software delivery
+
+Conclusion
+
+Integrating security into DevOps helps teams
+develop and maintain safer applications.
+
+Security automation, code reviews, and
+access control are essential practices for
+modern software development teams.
