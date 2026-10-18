@@ -44,3 +44,54 @@ development by connecting development and operations.
 
 Using tools such as Git, GitHub, and GitHub Actions
 helps teams build, test, and deliver reliable software.
+
+Automated Testing and Monitoring in DevOps
+
+Automated Testing
+
+Automated testing is an important practice in DevOps.
+It allows developers to verify software functionality
+without manually repeating every test.
+
+Automated tests can run whenever new code is pushed
+to a GitHub repository.
+
+Types of Automated Testing
+
+1. Unit Testing
+Tests individual functions or components to ensure
+they behave as expected.
+
+2. Integration Testing
+Verifies that different software components work
+correctly together.
+
+3. Regression Testing
+Checks that new code changes have not broken
+existing functionality.
+
+Monitoring in DevOps
+
+Monitoring helps development teams observe the
+performance, reliability, and availability of
+software applications after deployment.
+
+Monitoring tools can detect errors, track system
+performance, and alert developers about failures.
+
+Benefits of Testing and Monitoring
+
+- Improves software reliability
+- Identifies bugs earlier
+- Reduces manual testing effort
+- Helps prevent production failures
+- Supports continuous improvement
+
+Conclusion
+
+Automated testing and monitoring are essential
+DevOps practices that improve the Software
+Development Life Cycle.
+
+They help development teams deliver reliable
+software while reducing development risks.
