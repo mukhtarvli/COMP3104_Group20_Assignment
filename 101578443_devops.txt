@@ -70,3 +70,52 @@ Benefits of Git Collaboration
 
 Git branching and pull requests are essential
 practices for collaborative DevOps projects.
+
+CI/CD Pipelines and GitHub Actions
+
+Continuous Integration (CI)
+
+Continuous Integration is a DevOps practice where
+developers frequently merge code changes into a
+shared repository.
+
+Automated workflows can check code quality,
+run tests, and identify integration problems.
+
+Continuous Delivery and Deployment (CD)
+
+Continuous Delivery prepares software for release
+through automated build and testing processes.
+
+Continuous Deployment goes further by automatically
+releasing changes that pass the required checks.
+
+GitHub Actions
+
+GitHub Actions is an automation platform integrated
+with GitHub repositories.
+
+Developers create workflow files in the
+.github/workflows directory using YAML.
+
+Workflows can automatically execute when developers
+push commits or create pull requests.
+
+Benefits of CI/CD
+
+- Detects software problems earlier
+- Reduces repetitive manual tasks
+- Improves software quality
+- Supports faster and more reliable releases
+- Provides feedback on code changes
+
+Example for Our Group Assignment
+
+Our COMP3104 Group 20 repository will use GitHub
+Actions to automatically run a CI workflow.
+
+The workflow will be triggered when team members
+push changes to the repository.
+
+GitHub Actions will execute the workflow on an
+Ubuntu runner and report whether it succeeds.
