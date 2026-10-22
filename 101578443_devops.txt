@@ -1,0 +1,175 @@
+COMP2156 - DevOps for System Administration
+
+COMP2156 introduces students to DevOps principles,
+tools, and practices used in modern software development.
+
+DevOps combines software development (Dev) and IT
+operations (Ops) to improve collaboration, automation,
+and software delivery.
+
+Key topics covered in DevOps include:
+
+1. Version Control
+Git is used to track changes in source code and
+manage different versions of a software project.
+
+2. GitHub Collaboration
+GitHub allows developers to work together using
+branches, pull requests, and code reviews.
+
+3. Continuous Integration (CI)
+CI automatically builds and tests code when
+developers push changes to a repository.
+
+4. Continuous Deployment (CD)
+CD helps automate the release and deployment
+of software applications.
+
+5. GitHub Actions
+GitHub Actions allows developers to automate
+testing, building, and deployment workflows.
+
+These skills help students understand how development
+teams collaborate and maintain reliable applications.
+
+Git Branching and Team Collaboration
+
+Git branching allows developers to work on different
+features without affecting the main project.
+
+Each developer can create a separate branch to make
+changes, test features, and commit their work.
+
+Branching is important in DevOps because it supports
+parallel development and reduces the risk of
+introducing errors into the main codebase.
+
+Pull Requests
+
+A pull request allows developers to propose changes
+from their personal branch into the main branch.
+
+Team members can review the changes, provide feedback,
+and request improvements before merging.
+
+Merge Conflicts
+
+A merge conflict occurs when Git cannot automatically
+combine changes from different branches.
+
+Developers must review the conflicting changes,
+resolve the differences, and commit the corrected files.
+
+Benefits of Git Collaboration
+
+- Supports teamwork and parallel development
+- Keeps the main branch stable
+- Provides a history of code changes
+- Encourages code reviews
+- Makes tracking and fixing errors easier
+
+Git branching and pull requests are essential
+practices for collaborative DevOps projects.
+
+CI/CD Pipelines and GitHub Actions
+
+Continuous Integration (CI)
+
+Continuous Integration is a DevOps practice where
+developers frequently merge code changes into a
+shared repository.
+
+Automated workflows can check code quality,
+run tests, and identify integration problems.
+
+Continuous Delivery and Deployment (CD)
+
+Continuous Delivery prepares software for release
+through automated build and testing processes.
+
+Continuous Deployment goes further by automatically
+releasing changes that pass the required checks.
+
+GitHub Actions
+
+GitHub Actions is an automation platform integrated
+with GitHub repositories.
+
+Developers create workflow files in the
+.github/workflows directory using YAML.
+
+Workflows can automatically execute when developers
+push commits or create pull requests.
+
+Benefits of CI/CD
+
+- Detects software problems earlier
+- Reduces repetitive manual tasks
+- Improves software quality
+- Supports faster and more reliable releases
+- Provides feedback on code changes
+
+Example for Our Group Assignment
+
+Our COMP3104 Group 20 repository will use GitHub
+Actions to automatically run a CI workflow.
+
+The workflow will be triggered when team members
+push changes to the repository.
+
+GitHub Actions will execute the workflow on an
+Ubuntu runner and report whether it succeeds.
+
+DevOps Security and Best Practices
+
+Security is an important part of modern DevOps.
+Organizations must protect applications, source
+code, infrastructure, and sensitive information.
+
+DevSecOps
+
+DevSecOps integrates security practices into
+the software development and deployment process.
+
+Instead of checking security only before release,
+teams identify vulnerabilities throughout the
+Software Development Life Cycle.
+
+Important DevOps Security Practices
+
+1. Access Control
+Developers should only receive the permissions
+required to perform their assigned tasks.
+
+2. Secure Credentials
+Passwords, API keys, and access tokens should
+never be stored directly in source code.
+
+3. Dependency Management
+Software dependencies should be regularly
+checked for known security vulnerabilities.
+
+4. Code Reviews
+Pull requests allow team members to review
+changes before merging them into the main branch.
+
+5. Automated Security Checks
+CI/CD pipelines can run automated tools to
+identify vulnerabilities and configuration issues.
+
+Benefits of DevSecOps
+
+- Improves application security
+- Identifies vulnerabilities earlier
+- Reduces security risks
+- Encourages shared security responsibility
+- Supports reliable software delivery
+
+Conclusion
+
+Integrating security into DevOps helps teams
+develop and maintain safer applications.
+
+Security automation, code reviews, and
+access control are essential practices for
+modern software development teams.

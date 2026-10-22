@@ -1,0 +1,30 @@
+George Brown College
+
+George Brown College is a public college located in
+Toronto, Ontario, Canada.
+
+The college provides career-focused education in
+technology, business, health sciences, and other fields.
+
+As a Computer Programming and Analysis student,
+I develop practical skills in software development,
+database management, and web technologies.
+
+George Brown College also emphasizes teamwork,
+problem-solving, and hands-on learning to prepare
+students for professional careers.
+
+Technology Education at George Brown College
+
+George Brown College offers technology programs that
+help students develop practical skills for careers
+in the information technology industry.
+
+Students learn programming languages, database systems,
+software testing, and application development.
+
+Through group projects, students also gain experience
+with collaboration tools such as Git and GitHub.
+
+These experiences help students prepare for careers
+as software developers, programmers, and IT professionals.
