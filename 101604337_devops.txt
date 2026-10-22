@@ -1,2 +1,3 @@
 DevOps is a set of practices that combines software development and IT operations.
 DevOps helps development and operations teams work together to build and release software faster and more reliably.
+Automation is an important part of DevOps because it reduces manual work and helps teams deliver software consistently.
