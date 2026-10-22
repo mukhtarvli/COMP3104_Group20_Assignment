@@ -1,3 +1,4 @@
 DevOps supports the software development lifecycle by connecting development, testing, deployment, and operations.
 Continuous integration allows developers to regularly merge code changes and automatically test them during the development lifecycle.
 Continuous delivery helps teams release tested software changes quickly and reliably throughout the SDLC.
+Using DevOps throughout the SDLC improves collaboration, software quality, and the speed of delivering updates to users.
